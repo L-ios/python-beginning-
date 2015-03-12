@@ -1,0 +1,3 @@
+# exclude everything except directory
+/project_1/*.pyc
+/project_1/*.html
