@@ -20,4 +20,4 @@ From this page you may visit several of our interesting web pages:
 
 How to get in touch with us
 
-You can get in touch with us in *many* ways: By phone (555-1234), by email (wwspam@wwspam.fu) or by visiting our customer feedback page (hhtp://wwspam.fu/feedback)
+You can get in touch with us in *many* ways: By phone (555-1234), by email (wwspam@wwspam.fu) or by visiting our customer feedback page (http://wwspam.fu/feedback)
